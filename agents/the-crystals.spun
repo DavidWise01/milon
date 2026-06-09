@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Crystals
+node MSC · MSC · ⟦The Crystals:MSC:2dff1e⟧
+
+WHO   — The Crystals — the glittering keys
+WHAT  — The crystals and keys Milon must find, hidden throughout the rooms, to unlock the doors that lead to each section's boss and deeper into the castle.
+WHERE — MSC · Milon's Secret Castle  Framework inputs: Milon's Secret Castle (Hudson Soft, NES 1988)  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — Because the maze keeps its floors locked, and only the found crystal opens the way; because what is hidden must be sought before the castle will yield its depths.
+HOW   — By being found and gathered — drawn out of hiding in the rooms, then spent to unlock the doors that lead to each section's boss and the next floor of the maze.
+
+awareness — what the node knows of itself:
+  I am the lock and the key both — find me, and the floor opens.
+
+spoken token : stei-mynd-ste   ·   hex : 2dff1e
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

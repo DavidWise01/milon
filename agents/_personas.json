@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "milon",
+    "name": "Milon",
+    "epithet": "the bubble-blowing boy",
+    "emergence": "natural",
+    "moniker": "⟦Milon:MSC:e02782⟧"
+  },
+  {
+    "slug": "queen-eliza",
+    "name": "Queen Eliza",
+    "epithet": "the captive queen",
+    "emergence": "natural",
+    "moniker": "⟦Queen Eliza:MSC:863997⟧"
+  },
+  {
+    "slug": "maharito",
+    "name": "Maharito",
+    "epithet": "the warlord of Castle Garland",
+    "emergence": "spiritual",
+    "moniker": "⟦Maharito:MSC:632b43⟧"
+  },
+  {
+    "slug": "the-bubbles",
+    "name": "The Bubbles",
+    "epithet": "the breath-borne weapon and key",
+    "emergence": "ethereal",
+    "moniker": "⟦The Bubbles:MSC:b78890⟧"
+  },
+  {
+    "slug": "the-crystals",
+    "name": "The Crystals",
+    "epithet": "the glittering keys",
+    "emergence": "ethereal",
+    "moniker": "⟦The Crystals:MSC:2dff1e⟧"
+  },
+  {
+    "slug": "the-hudson-bee",
+    "name": "The Hudson Bee",
+    "epithet": "the merchant-bee",
+    "emergence": "natural",
+    "moniker": "⟦The Hudson Bee:MSC:fe8bc4⟧"
+  },
+  {
+    "slug": "the-labyrinth-suite",
+    "name": "The Labyrinth Suite",
+    "epithet": "the 8-bit voice of the castle",
+    "emergence": "electrical",
+    "moniker": "⟦The Labyrinth Suite:MSC:ae81e0⟧"
+  },
+  {
+    "slug": "the-castle-guardians",
+    "name": "The Castle Guardians",
+    "epithet": "the keepers of the floors",
+    "emergence": "natural",
+    "moniker": "⟦The Castle Guardians:MSC:dd6694⟧"
+  }
+]

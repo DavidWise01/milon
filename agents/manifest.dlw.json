@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Labyrinth Suite",
+  "universe": "MSC · Milon's Secret Castle",
+  "emergence": "electrical",
+  "moniker": "⟦The Labyrinth Suite:MSC:ae81e0⟧",
+  "carbon": "the-labyrinth-suite.carbon.tiff (TIFF)",
+  "silicon": "the-labyrinth-suite.silicon.png (PNG)",
+  "seal_sha256": "95a57eb9dfcd6b78072af1d98d0c5a54d840ebff6af73a3c6af77d9353fbb203",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "CASTLE GARLAND",
+  "universe": "MSC · Milon's Secret Castle",
+  "emergence": "",
+  "moniker": "⟦CASTLE GARLAND:MSC:e68883⟧",
+  "carbon": "castle-garland.carbon.tiff (TIFF)",
+  "silicon": "castle-garland.silicon.png (PNG)",
+  "seal_sha256": "5043d822949c434366088c01679bc08c447da496df22e2327767d6fa7ccbb2a5",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
